@@ -296,12 +296,6 @@ DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,upbit.com
-# > Binane
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.info
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,yingwangtech.cloud
 # > Bybit
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,bybdc6.com
